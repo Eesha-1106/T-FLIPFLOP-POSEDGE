@@ -45,7 +45,7 @@ Developed by:Eesha Ranka
 RegisterNumber:212224240040
 */
 
-module deexp7(t,clk,rst,q);
+module deexp9(t,clk,rst,q);
 input t,clk,rst;
 output reg q;
 
